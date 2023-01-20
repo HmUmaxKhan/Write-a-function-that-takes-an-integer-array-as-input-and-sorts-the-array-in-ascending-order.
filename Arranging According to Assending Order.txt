@@ -1,0 +1,3 @@
+Ascending order is a method of arranging numbers from smallest value to largest value. The order goes from left to right. Ascending order is also sometimes named as increasing order. For example, a set of natural numbers are in ascending order, such as 1 < 2 < 3 < 4 < 5 < 6 < 7 < 8… and so on. The less than symbol (<), is used to denote the increasing order.  The inverse method of increasing order is descending order, where the numbers are arranged in decreasing order of values.
+
+Write a function that takes an integer array as input and sorts the array in ascending order.Check if your function works correctly by calling it for some suitable inputs.
